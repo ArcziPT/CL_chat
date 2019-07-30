@@ -1,0 +1,4 @@
+id name port logging banned users admins
+0 main 9191 0 banned.txt * admins.txt
+1 ch1 8080 1 banned_ch1.txt users_ch1.txt admins_ch1.txt
+2 ch2 8081 1 banned_ch2.txt users_ch2.txt admins_ch2.txt
